@@ -1,0 +1,3 @@
+[submodule "StupidHomeApp"]
+	path = StupidHomeApp
+	url = https://github.com/tsnanh/StupidHomeApp
