@@ -1,3 +1,6 @@
 [submodule "StupidHomeApp"]
 	path = StupidHomeApp
 	url = https://github.com/tsnanh/StupidHomeApp
+[submodule "Arduino-Smarthome"]
+	path = Arduino-Smarthome
+	url = https://github.com/jimkha/Arduino-Smarthome
